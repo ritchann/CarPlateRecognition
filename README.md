@@ -13,3 +13,4 @@ Accuracy: 0.6931818181818182
 Batch - 6, epochs - 10, optimizer - SGD<br />
 Accuracy: 0.8556701030927835 
 
+Instruction manual:<br />
