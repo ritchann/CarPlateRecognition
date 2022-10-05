@@ -2,17 +2,14 @@
 
 # To measure the accuracy of the object detector, the method of Intersection over Union (IOU)
 
-Batch - 6, epochs - 30, optimizer - SGD
-
+Batch - 6, epochs - 30, optimizer - SGD<br />
 Accuracy: 0.7244897959183674
 
 
-Batch - 6, epochs - 30, optimizer - Adam
-
+Batch - 6, epochs - 30, optimizer - Adam<br />
 Accuracy: 0.6931818181818182
 
 
-Batch - 6, epochs - 10, optimizer - SGD
-
+Batch - 6, epochs - 10, optimizer - SGD<br />
 Accuracy: 0.8556701030927835 
 
