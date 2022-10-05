@@ -19,3 +19,6 @@ Instruction manual:<br />
 3. Add an image to the Google Colab files of your notebook<br />
 4. Replace the word PATH in notebook with your file path<br />
 5. Let's try to recognize the car plate number<br />
+
+
+You can find the files on the disk(train images, test images, train.csv, file with best weights for detection) - https://drive.google.com/drive/folders/11P7l5HYZpt4Y2nMm2wG9IUhruDTtJ8yx?usp=sharing
