@@ -1,6 +1,7 @@
 # Car plate recognition (YOLOv5, EasyOCR)
 
-# To measure the accuracy of the object detector, the method of Intersection over Union (IOU)
+To measure the accuracy of the object detector, the method of Intersection over Union (IOU)
+
 
 __Task:__
 The company needs to recognize the license plates of cars to understand whether to open the barrier or not. The car drive up to the barrier, the camera is directed at the car and provides information. The car plate is recognized, if the number is not recognized, then the barrier remains lowered, otherwise the barrier rises and passes the car into the territory. Currently, image recognition is taking place, there is no example of the video stream working.
