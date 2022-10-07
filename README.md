@@ -1,6 +1,6 @@
 # Car plate recognition (YOLOv5, EasyOCR)
 
-To measure the accuracy of the object detector, the method of Intersection over Union (IOU)
+To measure the accuracy of the object detector, the method of Intersection over Union (IOU).
 
 
 __Task:__
