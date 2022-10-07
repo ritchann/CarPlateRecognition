@@ -17,7 +17,7 @@ Accuracy: 0.6931818181818182
 Batch - 6, epochs - 10, optimizer - SGD<br />
 Accuracy: 0.8556701030927835 
 
-Instruction manual:<br />
+__Instruction manual:<br />__
 1. Open the CarPlateRecognition.ipynb file in Google Colab<br />
 2. Download file best.pt(link to the google drive below) and place it in the Google Colab files of your notebook<br />
 3. Add an image to the Google Colab files of your notebook<br />
