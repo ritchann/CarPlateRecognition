@@ -1,10 +1,11 @@
 # Car plate recognition (YOLOv5, EasyOCR)
 
-To measure the accuracy of the object detector, the method of Intersection over Union (IOU).
-
 
 __Task:__
 The company needs to recognize the license plates of cars to understand whether to open the barrier or not. The car drive up to the barrier, the camera is directed at the car and provides information. The car plate is recognized, if the number is not recognized, then the barrier remains lowered, otherwise the barrier rises and passes the car into the territory. Currently, image recognition is taking place, there is no example of the video stream working.
+
+
+To measure the accuracy of the object detector, the method of Intersection over Union (IOU).
 
 
 Batch - 6, epochs - 30, optimizer - SGD<br />
@@ -17,6 +18,13 @@ Accuracy: 0.6931818181818182
 
 Batch - 6, epochs - 10, optimizer - SGD<br />
 Accuracy: 0.8556701030927835 
+
+
+The quality of OCR is evaluated using the Character Error Rate (CER):
+
+CER - 84.8
+
+
 
 __Instruction manual:<br />__
 1. Open the CarPlateRecognition.ipynb file in Google Colab<br />
